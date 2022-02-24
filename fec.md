@@ -67,8 +67,9 @@ __Describe (in two to three sentences — no need for a detailed story pitch) on
 
 
 <h2> Supplementary Data</h2>
-1. Past Data about donations made to the Republican and Democratic entities backing presidential candidates (Bush v Gore/Kerry; Obama v McCain/Romney; Trump v Clinton; Biden v Trump). These data sets, combined with the current data, should provide more context about how campaign finance donations changed since the mid 1990s to present. Some possible analysis include: changes in the total sum of donation amounts to each Party candidate; changes in the donating patterns of any single donor or sector, etc.
-2. Poll statistics by state (or by city if possible) from the same period. Combining poll data together with campaign finance data offers a glimpse into the political orientation of different states. This may leads to stories revealing how public opinion on politics and big political donors influence (or even contradict) each other.
+    1. Past Data about donations made to the Republican and Democratic entities backing presidential candidates (Bush v Gore/Kerry; Obama v McCain/Romney; Trump v Clinton; Biden v Trump). These data sets, combined with the current data, should provide more context about how campaign finance donations changed since the mid 1990s to present. Some possible analysis include: changes in the total sum of donation amounts to each Party candidate; changes in the donating patterns of any single donor or sector, etc.</br>
+    
+    2.Poll statistics by state (or by city if possible) from the same period. Combining poll data together with campaign finance data offers a glimpse into the political orientation of different states. This may leads to stories revealing how public opinion on politics and big political donors influence (or even contradict) each other.
 
 
 
