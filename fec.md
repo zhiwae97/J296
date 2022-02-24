@@ -21,8 +21,8 @@ __2. Deleted duplicated data:__
 __3. Export cleaned dataset from OpenRefine and rename .cvs file [CLEANED] Dataset of SOFT100K 95 96.cvs before uploading to Google Sheets.__
 * The dataset can be accessed [here](/https://docs.google.com/spreadsheets/d/1I8JNtYbc0HWIwqUC3SruRIoK6FsVyvvVwvCc_57-hmo/edit?usp=sharing).
  
-__4. Added zeros to all the zipcodes that are displayed incorrect__
-* In Google Sheets, use Format - Number - Custom Number Format - 00000 to make sure all zipcodes are displayed correct
+__4. Added zeros to all the zipcodes that are displayed incorrectly__
+* In Google Sheets, use Format - Number - Custom Number Format - 00000 to make sure all zipcodes are displayed correctly
 * In Google Sheets, use Format - Number - Plain Text to make sure zip codes are displayed as text instead of having numerical value
 
 
@@ -41,7 +41,7 @@ __2. How much did donors from the Misc. Business sector contribute to the Democr
 !['DetailTable2.1', 'Democratic Misc.Business Donors based in Miami Lakes, FL. '](/DetailTable2.1.JPG)
 
 __3.What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it?__
-* In pivot table, set row as donor, value as amount, and add a filter of "Industry" and select "Tobacco"
+* In pivot table, set row as "Donor", value as "Amount", and add a filter of "Industry" and select "Tobacco"
 * The following pivot table shows that Philip Morris donated $1,820,000, and the total of tobacco industry is $2,570,000</br>
 !['PivotTable3.1', 'Donors from the tobacco industry and data on their total donations'](/PivotTable3.1.JPG)
 * Philip Morris accounts for 1,820,000/2,570,000=71% of the tobacco industry's donations.
@@ -68,7 +68,6 @@ __Describe (in two to three sentences — no need for a detailed story pitch) on
 
 <h2> Supplementary Data</h2>
     1. Past Data about donations made to the Republican and Democratic entities backing presidential candidates (Bush v Gore/Kerry; Obama v McCain/Romney; Trump v Clinton; Biden v Trump). These data sets, combined with the current data, should provide more context about how campaign finance donations changed since the mid 1990s to present. Some possible analysis include: changes in the total sum of donation amounts to each Party candidate; changes in the donating patterns of any single donor or sector, etc.</br>
-    
     2.Poll statistics by state (or by city if possible) from the same period. Combining poll data together with campaign finance data offers a glimpse into the political orientation of different states. This may leads to stories revealing how public opinion on politics and big political donors influence (or even contradict) each other.
 
 
