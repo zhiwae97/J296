@@ -1,6 +1,6 @@
 # Zhiwei Feng
 ## I am a student at UC Berkeley Graduate School of Journalism
-!['headshot illustration of Zhiwei'](/Zhiwei.JPG)
+!['headshot illustration of Zhiwei'](/Zhiwei(smaller).JPG)
 ## Skills
 1. Videography
 2. Language: Mandarin Chinese(native); Classical Chinese(proficient); English(fluent)
