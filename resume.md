@@ -8,6 +8,6 @@
 
 | Employer            | Job Description |
 |---------------------|-----------------|
-| Reuters News Agency | Interned for the combined picture and video team               |
-| Beijing Youth Daily | Covered criminal justice news and ivestigated on <br> the ban on sex education in public schools                |
-| ByteDance Ltd.      | Used recommendation algorithm of the app "Today's Headline"<br> to ensure hourly news update and customer engagement                |
+| Reuters News Agency | <ul><li>Pitched stories and conducted research for the video department</li><li>Assisted in daily production</li></ul>              |
+| Beijing Youth Daily | <ul><li>Covered criminal justice news in Beijing </li><li> Ivestigated the ban on sex education in public schools</li></ul>         |
+| ByteDance Ltd.      | <ul><li>Used recommendation algorithm of the app "Today's Headline" Ensure hourly news update and customer engagement</li></ul>                 |
